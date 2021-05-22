@@ -6,11 +6,12 @@
 <li>HTML
 <li>CSS
 <li>Java script
-<br>
-# Follow me
-<li><a href=
+
+ 
+# Follow me<br>
+<a href=
 "https://www.linkedin.com/in/mohit-kumar-605669202/">LinkedIn</a>
+ <br>
  
- 
-<li><a href=
+<a href=
 "https://github.com/mohitk30">GitHub</a>
