@@ -6,7 +6,7 @@
 <li>HTML
 <li>CSS
 <li>Java script
- 
+# Follow me
 <li><a href=
 "https://www.linkedin.com/in/mohit-kumar-605669202/">LinkedIn</a>
  
