@@ -78,7 +78,7 @@
 }
 
 .home-div {
-    min-height: 500px;
+    min-height: 400px;
 }
 
 #socials p {
@@ -129,4 +129,26 @@
 #about {
     background-image: url(https://i.imgur.com/Yj15qi8.png);
     min-height: 80vh;
+}
+
+.my-image {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: 50px;
+}
+
+.my-image img {
+    border-radius: 500px;
+    border: 2px solid blue;
+}
+
+.about-me {
+    width: 55%;
+    padding: 30px;
+    margin: auto;
+}
+
+.about-me p {
+    align-items: center;
 }
