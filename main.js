@@ -2,6 +2,33 @@ AOS.init();
 // to show contact
 
 
+function borderblogs() {
+    document.getElementById("blogs-head").style.boxShadow = "2px 2px 6px rgba(0, 0, 0, 0.2)";
+    document.getElementById("projects-head").style.boxShadow = "none";
+
+    document.getElementById("blog").style.display = "block";
+
+
+
+    document.getElementById("project").style.display = "none";
+
+
+
+
+}
+
+function borderprojects() {
+    document.getElementById("blogs-head").style.boxShadow = "none";
+    document.getElementById("projects-head").style.boxShadow = "2px 2px 6px rgba(0, 0, 0, 0.2)";
+    document.getElementById("blog").style.display = "none";
+
+
+
+    document.getElementById("project").style.display = "block";
+
+
+
+}
 // preloader
 
 const typedTextSpan = document.querySelector(".typed-text");
