@@ -165,6 +165,7 @@ body {
 .my-image img {
     border-radius: 500px;
     border: 2px solid blue;
+    background-color: rgb(206, 206, 206);
 }
 
 .about-me {
