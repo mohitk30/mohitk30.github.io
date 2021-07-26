@@ -101,6 +101,10 @@ body {
     text-align: center;
 }
 
+#socials>p a {
+    text-transform: none !important;
+}
+
 .icon-space {
     margin: 10px;
     padding: 3.5px;
@@ -108,7 +112,6 @@ body {
 }
 
 .icon-space:hover {
-    box-shadow: -1px -1px 2px 2px rgb(3, 51, 51);
     color: rgb(8, 1, 54);
 }
 
