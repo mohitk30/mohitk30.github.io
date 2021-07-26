@@ -9,6 +9,7 @@
 }
 
 main {
+    width: 100vw;
     max-width: 1200px;
     margin: auto;
 }
@@ -143,7 +144,7 @@ body {
 #about {
     background-image: url(https://i.imgur.com/Yj15qi8.png);
     min-height: 25vh;
-    width: auto;
+    width: 100%;
     margin-top: 100px;
     display: block;
 }
@@ -167,14 +168,13 @@ body {
 }
 
 .about-me {
-    width: 55%;
-    padding: 30px;
+    padding: 20px;
     margin: auto;
 }
 
 .about-me p {
     align-items: center;
-    text-justify: auto;
+    text-align: justify;
     font-size: 1.5rem;
 }
 
@@ -402,3 +402,6 @@ body {
     height: 10px;
     background-color: #82b440;
 }
+
+
+/* spinner */
