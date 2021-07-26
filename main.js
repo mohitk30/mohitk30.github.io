@@ -1,9 +1,13 @@
 AOS.init();
+// to show contact
+
+
+// preloader
 
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Developer", "Coder", "Cyberpunk", "Programer", "Front End Enthusiast"];
+const textArray = ["Programer", "Cyberpunk", "Coder", "Developer", "Front End Enthusiast"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
