@@ -1,7 +1,6 @@
 AOS.init();
 // to show contact
 
-
 function borderblogs() {
     document.getElementById("blogs-head").style.boxShadow = "2px 2px 6px rgba(0, 0, 0, 0.2)";
     document.getElementById("projects-head").style.boxShadow = "none";
@@ -24,7 +23,7 @@ function borderprojects() {
 
 
 
-    document.getElementById("project").style.display = "block";
+    document.getElementById("project").style.display = "flex";
 
 
 
