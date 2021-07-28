@@ -2,7 +2,7 @@ AOS.init();
 // to show contact
 
 function borderblogs() {
-    document.getElementById("blogs-head").style.boxShadow = "2px 2px 6px rgba(0, 0, 0, 0.2)";
+    document.getElementById("blogs-head").style.boxShadow = "2px 2px 6px rgb(255, 255, 255)";
     document.getElementById("projects-head").style.boxShadow = "none";
 
     document.getElementById("blog").style.display = "block";
@@ -18,7 +18,7 @@ function borderblogs() {
 
 function borderprojects() {
     document.getElementById("blogs-head").style.boxShadow = "none";
-    document.getElementById("projects-head").style.boxShadow = "2px 2px 6px rgba(0, 0, 0, 0.2)";
+    document.getElementById("projects-head").style.boxShadow = "2px 2px 6px rgb(255, 255, 255)";
     document.getElementById("blog").style.display = "none";
 
 
