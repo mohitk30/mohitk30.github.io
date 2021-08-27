@@ -510,7 +510,7 @@ nav {
     /* box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2); */
     border: 2px solid #FFFFFF;
     width: 30%;
-    min-width: 300px;
+    min-width: 350px;
     backdrop-filter: blur( 6.5px);
     -webkit-backdrop-filter: blur( 6.5px);
 }
@@ -561,7 +561,7 @@ nav {
     opacity: 0;
     transition: .5s ease;
     /* background-color: #3d4244; */
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-image: linear-gradient(to top, #3d66b3 0%, #573f75 100%);
 }
 
 #proj3-about {
@@ -576,7 +576,7 @@ nav {
     opacity: 0;
     transition: .5s ease;
     /* background-color: #3d4244; */
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-image: linear-gradient(to top, #3d66b3 0%, #573f75 100%);
 }
 
 #proj1-about p {
@@ -605,7 +605,7 @@ nav {
     /* box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2); */
     border: 2px solid #FFFFFF;
     width: 30%;
-    min-width: 300px;
+    min-width: 350px;
     backdrop-filter: blur( 6.5px);
     -webkit-backdrop-filter: blur( 6.5px);
 }
@@ -638,7 +638,7 @@ nav {
     opacity: 0;
     transition: .5s ease;
     /* background-color: #3d4244; */
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-image: linear-gradient(to top, #3d66b3 0%, #573f75 100%);
 }
 
 #proj2-about p {
