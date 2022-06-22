@@ -1,0 +1,102 @@
+/* * {
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    max-width: 1260px;
+    background-color: #333;
+    margin: auto;
+    color: white;
+    padding: 10px;
+}
+
+#tabs-section {
+    width: 100%;
+    padding-top: 30px;
+}
+
+#tab-section-heading>h1 {
+    width: 100px;
+    margin: auto;
+}
+
+#tabs-box {
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    box-shadow: 2px 2px 30px rgba(141, 137, 137, 0.2);
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.tab {
+    width: 16.67%;
+    /* box-shadow: 2px 2px 30px rgba(141, 137, 137, 0.2); */
+
+
+/*
+margin: auto;
+border: 2px solid white;
+padding: auto;
+
+}
+.tab>p {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top: 10px;
+    margin-bottom: 10px !important;
+}
+.tab:hover {
+    cursor: pointer;
+}
+.initial-active-tab {
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-bottom: 0px solid white;
+}
+#tabs-data {
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    box-shadow: 2px 2px 30px rgba(141, 137, 137, 0.2);
+    border-top: 0px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+}
+.data-div>p {
+    padding: 20px;
+    font-size: 2rem;
+}
+.data-div {
+    display: none;
+}
+.initial-tab-div {
+    display: block;
+}
+.initial-tab-div>p {
+    padding: 20px;
+    font-size: 2rem;
+}
+*/
+
+main {
+    padding: 40px;
+}
+
+* {
+    background-color: rgb(207, 188, 188);
+    color: rgb(53, 53, 70);
+}
+
+#login-div {
+    display: none;
+}
+
+#login-or-signup {
+    width: 150px;
+}
