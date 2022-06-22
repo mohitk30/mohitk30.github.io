@@ -3,13 +3,16 @@
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
-
+body{
+    background-color: #333 !important;
+    color: white !important;
+}
 .max-width {
     max-width: 1200px;
 }
 
 main {
-    width: 100vw;
+    width: 100%;
     max-width: 1200px;
     margin: auto;
 }
@@ -357,7 +360,7 @@ nav {
 
 .phone p {
     text-align: center;
-    font-size: 1.8rem;
+    
 }
 
 #mobile {
@@ -367,6 +370,7 @@ nav {
 .nolink {
     text-decoration: none;
     color: #82b440;
+
 }
 
 .nolink:hover {
@@ -956,7 +960,7 @@ nav {
 /* FOOTER */
 
 .footer-basic {
-    padding: 40px 0;
+    padding: 150px 0px 0px 0px;
     color: white !important;
 }
 
@@ -1092,7 +1096,7 @@ nav {
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 50%;
+    width: 50% !important;
     height: 300px;
     color: black;
     font-size: 24px;
@@ -1113,4 +1117,8 @@ nav {
     color: #000;
     text-decoration: none;
     cursor: pointer;
+}
+
+.some-other-text-info{
+    font-size: 0.8rem;
 }
