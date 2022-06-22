@@ -72,9 +72,6 @@ document.addEventListener("DOMContentLoaded", function() { // On DOM Load initia
 
 
 
-
-
-
 // mondel
 
 // Get the modal
