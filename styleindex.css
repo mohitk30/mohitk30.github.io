@@ -1097,9 +1097,10 @@ nav {
     padding: 20px;
     border: 1px solid #888;
     width: 50% !important;
-    height: 300px;
+    /* height: 300px; */
     color: black;
-    font-size: 24px;
+    font-size: 0.9rem;
+ 
 }
 
 
@@ -1108,7 +1109,7 @@ nav {
 .close {
     color: #aaaaaa;
     float: right;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: bold;
 }
 
